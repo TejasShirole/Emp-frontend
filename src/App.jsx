@@ -2,11 +2,11 @@ import {  Routes, Route } from 'react-router-dom';
 import './App.css'
 
 import NavbarComponent from './components/NavbarComponent';
-import AddEmployee from './components/AddEmployee';
-import EditEmployee from './components/EditEmployee';
+import AddEmployee from './Components/AddEmployee';
+import EditEmployee from './Components/EditEmployee';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-import EmployeeList from './components/EmployeeList';
+import EmployeeList from './Components/EmployeeList';
 
 function App() {
   return (
