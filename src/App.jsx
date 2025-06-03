@@ -1,7 +1,7 @@
 import {  Routes, Route } from 'react-router-dom';
 import './App.css'
 
-import NavbarComponent from './components/NavbarComponent';
+import NavbarComponent from './Components/NavbarComponent';
 import AddEmployee from './Components/AddEmployee';
 import EditEmployee from './Components/EditEmployee';
 import { ToastContainer } from 'react-toastify';
